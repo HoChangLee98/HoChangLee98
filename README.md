@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+## EDUCATION
+#### 🏫 Pusan National University (PNU)
+  *Bachelor of Statistic, Mar. 2018 - Aug. 2024* 
 
 <!--
 **HoChangLee98/HoChangLee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
