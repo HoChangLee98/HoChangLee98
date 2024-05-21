@@ -1,23 +1,39 @@
+## Intro
 
+<br/>
+
+## Contact
+ #### 📧이메일: ghckd3558@naver.com , dlghckd3558@gmail.com
+
+<br/>
 
 ## EDUCATION
-#### 🏫 Pusan National University (PNU)
-  *Bachelor of Statistic, Mar. 2018 - Aug. 2024* 
+ #### 🏫 Pusan National University (PNU)
+   *Bachelor of Statistic, Mar.2018 ~ Aug.2024* 
 
- ## Competition
+<br/>
+
+## Competition
  #### 🥬 청경채 성장 예측 AI 경진대회
- public 4%, private 10% 2022.08.17 ~ 2022.09.19 09:59 
+   *public 4% & private 10%, Aug.2022 ~ Sep.2022* 
 
- ## Academy
- #### 📖 BDAA
- ####
+<br/>
 
- ## Work
- #### 👚 Siffer, start-up
- 2023.01.01 ~ 2023.12.12
+## Academy
+ #### 📖 Big Data Analysis Association (BDAA) 
+   *Advanced class, Mar.2023 ~ Jun.2023*
+  
+ #### 💻 AI Coaching Study in Boost Course
+   *Lead Booster, May.2024 ~ Jun.2024* 
 
- #### 📂 휴마인, assistant
- 2024.05.13 ~ 2024.06.13
+<br/>
+
+## Work
+ #### 👚 Siffer
+   *AI team, Jun.2023 ~ Dec.2023*
+
+ #### 📂 휴마인, 
+   *Assistant of data analysis education for public official, May.2024 ~ Jun.2024*
 
  
  
