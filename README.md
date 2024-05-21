@@ -32,8 +32,8 @@
  #### 👚 Siffer
    *AI team, Jun.2023 ~ Dec.2023*
 
- #### 📂 휴마인, 
-   *Assistant of data analysis education for public official, May.2024 ~ Jun.2024*
+ #### 📂 Humaiin
+   *Assistant instructor of data analysis education for public official, May.2024 ~ Jun.2024*
 
  
  
