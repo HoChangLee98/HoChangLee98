@@ -23,7 +23,7 @@
  #### 📖 Big Data Analysis Association (BDAA) 
    *Advanced class, Mar.2023 ~ Jun.2023*
   
- #### 💻 AI Coaching Study in Boost Course
+ #### 💻 Coaching Study <Let's AI 2024> in Boost Course
    *Lead Booster, May.2024 ~ Jun.2024* 
 
 <br/>
