@@ -14,14 +14,20 @@
 <br/>
 
 ## Competition
- #### 🥬 청경채 성장 예측 AI 경진대회
+ #### 🥬 [Dacon] 청경채 성장 예측 AI 경진대회
    *public 4% & private 10%, Aug.2022 ~ Sep.2022* 
-
+   
+ #### 🚒 [Kaggle] Disaster Tweets
+   *Feb.2024 ~ Mar.2024*
+   
 <br/>
 
 ## Academy
  #### 📖 Big Data Analysis Association (BDAA) 
    *Advanced class, Mar.2023 ~ Jun.2023*
+
+ #### 📚 PNU Statistic Study
+   *Leader, Mar.2023 ~ Mar.2024*
   
  #### 💻 Coaching Study <Let's AI 2024> in Boost Course
    *Lead Booster, May.2024 ~ Jun.2024* 
