@@ -17,10 +17,10 @@
  #### 🥬 [Dacon] 청경채 성장 예측 AI 경진대회
    *public 4% & private 10%, Aug.2022 ~ Sep.2022* 
 
- #### 🚒 [AIFactory] 공기압축기 이상 판단
+ #### 🗜️ [AIFactory] 공기압축기 이상 판단
    *top 10%, Apr.2024*
 
- #### 🚒 [Kaggle] Store Sales
+ #### 📊 [Kaggle] Store Sales
    *Jan.2024 ~ Feb.2024*
  
  #### 🚒 [Kaggle] Disaster Tweets
