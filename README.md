@@ -25,7 +25,10 @@
  
  #### 🚒 [Kaggle] Disaster Tweets
    *Feb.2024 ~ Mar.2024*
-   
+
+ #### 🗺️ [Gyeong-Nam Big-Data Center] 경상남도 빅데이터 분석 공모전
+   *Jun.2024 ~ Jul.2024*
+
 <br/>
 
 ## Academy
